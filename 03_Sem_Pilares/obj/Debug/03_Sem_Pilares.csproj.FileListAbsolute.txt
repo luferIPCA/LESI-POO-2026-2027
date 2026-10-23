@@ -1,0 +1,7 @@
+D:\TEMP\2026-2027\POO\Aulas\03_Sem_Pilares\bin\Debug\03_Sem_Pilares.exe.config
+D:\TEMP\2026-2027\POO\Aulas\03_Sem_Pilares\bin\Debug\03_Sem_Pilares.exe
+D:\TEMP\2026-2027\POO\Aulas\03_Sem_Pilares\bin\Debug\03_Sem_Pilares.pdb
+D:\TEMP\2026-2027\POO\Aulas\03_Sem_Pilares\obj\Debug\03_Sem_Pilares.csproj.AssemblyReference.cache
+D:\TEMP\2026-2027\POO\Aulas\03_Sem_Pilares\obj\Debug\03_Sem_Pilares.csproj.CoreCompileInputs.cache
+D:\TEMP\2026-2027\POO\Aulas\03_Sem_Pilares\obj\Debug\03_Sem_Pilares.exe
+D:\TEMP\2026-2027\POO\Aulas\03_Sem_Pilares\obj\Debug\03_Sem_Pilares.pdb
