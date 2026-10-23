@@ -1,0 +1,7 @@
+D:\TEMP\2026-2027\POO\Aulas\SmartPantry\bin\Debug\SmartPantry.exe.config
+D:\TEMP\2026-2027\POO\Aulas\SmartPantry\bin\Debug\SmartPantry.exe
+D:\TEMP\2026-2027\POO\Aulas\SmartPantry\bin\Debug\SmartPantry.pdb
+D:\TEMP\2026-2027\POO\Aulas\SmartPantry\obj\Debug\SmartPantry.csproj.AssemblyReference.cache
+D:\TEMP\2026-2027\POO\Aulas\SmartPantry\obj\Debug\SmartPantry.csproj.CoreCompileInputs.cache
+D:\TEMP\2026-2027\POO\Aulas\SmartPantry\obj\Debug\SmartPantry.exe
+D:\TEMP\2026-2027\POO\Aulas\SmartPantry\obj\Debug\SmartPantry.pdb
