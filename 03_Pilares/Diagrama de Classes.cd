@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_03_Pilares.Aluno">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAABAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aluno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Pilares.Pessoa">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Pilares.Professor">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAAABA=</HashCode>
+      <FileName>Professor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_03_Pilares.Program" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_03_Pilares.Tipo" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAACAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Professor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
