@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TEMP\\2026-2027\\POO\\Aulas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5A4D01-D66F-4C6D-A3CE-F45A885E08F6}|05_Abstract\\05_Abstract.csproj|d:\\temp\\2026-2027\\poo\\aulas\\05_abstract\\itriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5A4D01-D66F-4C6D-A3CE-F45A885E08F6}|05_Abstract\\05_Abstract.csproj|solutionrelative:05_abstract\\itriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5A4D01-D66F-4C6D-A3CE-F45A885E08F6}|05_Abstract\\05_Abstract.csproj|d:\\temp\\2026-2027\\poo\\aulas\\05_abstract\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5A4D01-D66F-4C6D-A3CE-F45A885E08F6}|05_Abstract\\05_Abstract.csproj|solutionrelative:05_abstract\\formageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5A4D01-D66F-4C6D-A3CE-F45A885E08F6}|05_Abstract\\05_Abstract.csproj|d:\\temp\\2026-2027\\poo\\aulas\\05_abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5A4D01-D66F-4C6D-A3CE-F45A885E08F6}|05_Abstract\\05_Abstract.csproj|solutionrelative:05_abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITriangulo.cs",
+              "DocumentMoniker": "D:\\TEMP\\2026-2027\\POO\\Aulas\\05_Abstract\\ITriangulo.cs",
+              "RelativeDocumentMoniker": "05_Abstract\\ITriangulo.cs",
+              "ToolTip": "D:\\TEMP\\2026-2027\\POO\\Aulas\\05_Abstract\\ITriangulo.cs",
+              "RelativeToolTip": "05_Abstract\\ITriangulo.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T10:30:25.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEMP\\2026-2027\\POO\\Aulas\\05_Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "05_Abstract\\Program.cs",
+              "ToolTip": "D:\\TEMP\\2026-2027\\POO\\Aulas\\05_Abstract\\Program.cs",
+              "RelativeToolTip": "05_Abstract\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T10:23:41.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaGeometrica.cs",
+              "DocumentMoniker": "D:\\TEMP\\2026-2027\\POO\\Aulas\\05_Abstract\\FormaGeometrica.cs",
+              "RelativeDocumentMoniker": "05_Abstract\\FormaGeometrica.cs",
+              "ToolTip": "D:\\TEMP\\2026-2027\\POO\\Aulas\\05_Abstract\\FormaGeometrica.cs",
+              "RelativeToolTip": "05_Abstract\\FormaGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T22:24:47.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
