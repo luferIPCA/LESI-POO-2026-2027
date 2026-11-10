@@ -1,0 +1,40 @@
+# ==============================================================================
+# Ficheiro .gitignore para projetos C# e Visual Studio 2022
+# by lufer
+
+# NOTA EXPLICATIVA:
+# Este ficheiro serve para dizer ao Git quais as pastas e ficheiros que NÃO 
+# devem ser enviados para o GitHub. Por exemplo: ficheiros pesados, pastas 
+# de compilação (bin/obj) e configurações locais com passwords.
+# ==============================================================================
+
+# 1. PASTAS DE COMPILAÇÃO E PUBLISH
+# Aqui ficam os ficheiros finais quando compila o código. Não precisam de ir para o Git.
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+Publish/
+publish/
+
+# 2. FICHEIROS DO VISUAL STUDIO 2022
+# Configurações pessoais da sua janela do Visual Studio (ficheiros ocultos e temporários).
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 3. PACOTES NUGET
+# Bibliotecas que o Visual Studio descarrega automaticamente.
+packages/
+*.nupkg
+
+# 4. SEGURANÇA E CONFIGURAÇÕES LOCAIS
+# Ficheiros onde costumam estar passwords ou chaves de bases de dados locais.
+appsettings.Development.json
+appsettings.Local.json
+.env
+
+# 5. TESTES
+# Relatórios de testes automáticos.
+TestResults/
