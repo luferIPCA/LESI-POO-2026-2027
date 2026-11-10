@@ -1,7 +1,0 @@
-D:\TEMP\2026-2027\POO\Aulas\05_Abstract\bin\Debug\05_Abstract.exe.config
-D:\TEMP\2026-2027\POO\Aulas\05_Abstract\bin\Debug\05_Abstract.exe
-D:\TEMP\2026-2027\POO\Aulas\05_Abstract\bin\Debug\05_Abstract.pdb
-D:\TEMP\2026-2027\POO\Aulas\05_Abstract\obj\Debug\05_Abstract.csproj.AssemblyReference.cache
-D:\TEMP\2026-2027\POO\Aulas\05_Abstract\obj\Debug\05_Abstract.csproj.CoreCompileInputs.cache
-D:\TEMP\2026-2027\POO\Aulas\05_Abstract\obj\Debug\05_Abstract.exe
-D:\TEMP\2026-2027\POO\Aulas\05_Abstract\obj\Debug\05_Abstract.pdb
