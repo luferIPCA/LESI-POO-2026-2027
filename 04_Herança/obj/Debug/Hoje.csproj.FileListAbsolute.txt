@@ -1,7 +1,0 @@
-D:\TEMP\2026-2027\POO\Aulas\Hoje\bin\Debug\Hoje.exe.config
-D:\TEMP\2026-2027\POO\Aulas\Hoje\bin\Debug\Hoje.exe
-D:\TEMP\2026-2027\POO\Aulas\Hoje\bin\Debug\Hoje.pdb
-D:\TEMP\2026-2027\POO\Aulas\Hoje\obj\Debug\Hoje.csproj.AssemblyReference.cache
-D:\TEMP\2026-2027\POO\Aulas\Hoje\obj\Debug\Hoje.csproj.CoreCompileInputs.cache
-D:\TEMP\2026-2027\POO\Aulas\Hoje\obj\Debug\Hoje.exe
-D:\TEMP\2026-2027\POO\Aulas\Hoje\obj\Debug\Hoje.pdb
